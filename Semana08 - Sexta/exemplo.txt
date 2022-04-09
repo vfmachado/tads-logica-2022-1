@@ -1,0 +1,22 @@
+
+[10, 20]
+n = 5
+15 => dentro
+7  => fora
+-15 => fora
+25 => fora
+20  => 20
+
+
+repetir n vezes
+
+cont = 1
+enquanto cont <= n
+    // bloco de codigo qualquer
+    cont++;
+
+enquanto n > 0
+    // repete o codigo
+    n--;
+
+
